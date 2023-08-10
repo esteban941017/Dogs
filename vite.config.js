@@ -4,6 +4,6 @@ import svgr from 'vite-plugin-svgr';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'http://esteban941017.github.io/Dogs/',
+  base: 'https://esteban941017.github.io/Dogs/',
   plugins: [react(), svgr()],
 });
